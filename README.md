@@ -2,7 +2,7 @@
 
 > Info product on career and life reinvention. Cloudflare-native, Resend-sequenced, Worker-driven lead capture.
 
-🌐 **Live:** [reinventionblueprint.com](https://reinventionblueprint.com) *(beta)*
+🌐 **Live:** [the-reinvention-blueprint.com](https://the-reinvention-blueprint.com) *(beta)*
 🏗️ **Stack:** Cloudflare Pages + Workers + D1 + Resend Audiences
 🔒 **Source:** private
 
