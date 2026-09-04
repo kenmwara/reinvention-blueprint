@@ -8,6 +8,14 @@
 
 ---
 
+## Screenshots
+
+<p>
+  <img src="https://tbot.trade/portfolio/img/reinvention.jpg" width="720" alt="The Reinvention Blueprint — landing page: "You haven't lost everything. Not yet."">
+</p>
+
+*the-reinvention-blueprint.com — the landing page; one-time purchase, no calls, no hand-holding.*
+
 ## What this is
 
 A digital product helping people in mid-career transitions reframe and execute a deliberate reinvention. Full funnel: landing page, lead magnet, multi-touch email sequence, paid offer, post-purchase fulfilment.
