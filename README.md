@@ -74,7 +74,7 @@ The lead → opened → clicked → purchased events POST to the same `events.tb
 
 ## Why this is interesting
 
-It's an end-to-end revenue product running on **two Cloudflare Workers + one D1 table + Resend**. No CMS, no CRM, no analytics SaaS. The entire stack fits in a few hundred lines of TypeScript and an hour to redeploy if I ever need to. Right-sized for a solo operator running a portfolio.
+It's an end-to-end revenue product running on **two Cloudflare Workers + one D1 table + Resend**. No CMS, no CRM, no analytics SaaS. The entire stack fits in a few hundred lines of TypeScript and an hour to redeploy if I ever need to. Right-sized for a small portfolio.
 
 ---
 
